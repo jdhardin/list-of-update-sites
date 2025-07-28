@@ -117,8 +117,9 @@ sites:
     url: "https://sites.imagej.net/4d-Tools/"
     description: >-
       [4d-Tools](https://imagej.net/plugins/4d-Tools/) is a set of macros for
-      importing legacy 4D microscopy data. Importing .MP4 and .MOV requires Stanislav Chizhik's
-      FFmpegVideoImportExport plugins. Also includes a highly expxeirmental Hyperstack Projector plugin.
+      importing legacy 4D microscopy data. Importing .MP4 and .MOV files requires
+      Stanislav Chizhik's FFmpegVideoImportExport plugins. Also includes a highly
+      expxeirmental Hyperstack Projector plugin.
     maintainers:
       - "[Jeff Hardin](https://github.com/jdhardin)"
       
